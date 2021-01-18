@@ -3,3 +3,8 @@
 3)C++
 4)C#
 5)javascript
+
+Database:
+1)Sql
+2)Oracle
+3)Mongodb
