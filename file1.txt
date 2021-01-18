@@ -3,6 +3,7 @@
 3)C++
 4)C#
 5)javascript
+6)pearl
 
 Database:
 1)Sql
